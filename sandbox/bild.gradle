@@ -1,3 +1,0 @@
-apply plugin: 'Java'
-apply plugin: 'aplication'
-mainClassName: "Название запускаемого класса" 
