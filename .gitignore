@@ -19,3 +19,11 @@ gradle-app.setting
 .project
 # JDT-specific (Eclipse Java Development Tools)
 .classpath
+sandbox/gradle/caches/8.3/fileHashes/fileHashes.bin
+sandbox/gradle/caches/8.3/fileHashes/fileHashes.bin
+sandbox/gradle/caches/8.3/executionHistory/executionHistory.lock
+sandbox/gradle/caches/8.3/fileContent/fileContent.lock
+sandbox/gradle/caches/8.3/fileHashes/fileHashes.lock
+sandbox/gradle/caches/jars-9/jars-9.lock
+sandbox/gradle/caches/journal-1/journal-1.lock
+sandbox/gradle/caches/modules-2/modules-2.lock
