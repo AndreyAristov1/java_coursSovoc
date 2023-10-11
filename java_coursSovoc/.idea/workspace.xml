@@ -4,7 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c1377eff-430a-46e6-a07a-383d80d85851" name="Changes" comment="" />
+    <list default="true" id="c1377eff-430a-46e6-a07a-383d80d85851" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_coursSovoc.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java_coursSovoc.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_coursSovoc/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_coursSovoc/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_coursSovoc/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_coursSovoc/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_coursSovoc/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_coursSovoc/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_coursSovoc/MyFirstProgram.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_coursSovoc/MyFirstProgram.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sandbox/gradle/caches/8.3/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../sandbox/gradle/caches/8.3/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sandbox/gradle/daemon/8.3/daemon-8684.out.log" beforeDir="false" afterPath="$PROJECT_DIR$/../sandbox/gradle/daemon/8.3/daemon-8684.out.log" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -61,6 +73,9 @@
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="2" />
   </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4
+}]]></component>
   <component name="ProjectId" id="2WW428UcZDnTW4JWkwLPYSTlOZU" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -71,9 +86,11 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "android.gradle.sync.needed": "true",
+    "git-widget-placeholder": "main",
     "jdk.selected.JAVA_MODULE": "19",
     "last_opened_file_path": "C:/Users/rid90/OneDrive/Документы/GitHub/java_coursSovoc/java_coursSovoc/.idea",
-    "project.structure.last.edited": "Modules",
+    "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "preferences.pluginManager"
