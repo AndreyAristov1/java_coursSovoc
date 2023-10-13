@@ -6,6 +6,7 @@ public class MyFirstProgram {
         hello();
     }
     public static void hello(){ //Создание функции
-        System.out.println("Hello world");
+        String sombody = "world";
+        System.out.println("Hello" + sombody + "!");
     }
 }
