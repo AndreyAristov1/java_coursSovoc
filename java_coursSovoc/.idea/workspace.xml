@@ -6,14 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="c1377eff-430a-46e6-a07a-383d80d85851" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_coursSovoc/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_coursSovoc/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_coursSovoc/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_coursSovoc/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_coursSovoc/MyFirstProgram.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_coursSovoc/java_coursSovoc.iml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_coursSovoc/java_coursSovoc.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sandbox/gradle/caches/journal-1/file-access.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../sandbox/gradle/caches/journal-1/file-access.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sandbox/gradle/daemon/8.3/daemon-14076.out.log" beforeDir="false" afterPath="$PROJECT_DIR$/../sandbox/gradle/daemon/8.3/daemon-14076.out.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sandbox/gradle/daemon/8.3/registry.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../sandbox/gradle/daemon/8.3/registry.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sandbox/gradle/daemon/8.3/registry.bin.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../sandbox/gradle/daemon/8.3/registry.bin.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sandbox/gradle/daemon/8.3/daemon-14260.out.log" beforeDir="false" afterPath="$PROJECT_DIR$/../sandbox/gradle/daemon/8.3/daemon-14260.out.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sandbox/src/main/java/myCours/MyFirstProgram.java" beforeDir="false" afterPath="$PROJECT_DIR$/../sandbox/src/main/java/myCours/MyFirstProgram.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
