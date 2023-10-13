@@ -123,4 +123,21 @@
       </map>
     </option>
   </component>
+  <component name="com.github.evgenys91.machinet.common.dslhistory.DslHistoryState">
+    <option name="historyDtoById">
+      <map>
+        <entry key="greeting">
+          <value>
+            <ChatHistoryModel>
+              <option name="id" value="greeting" />
+              <option name="initiateTms" value="1697178789667" />
+              <option name="request" value="" />
+              <option name="response" value="" />
+              <option name="responseTms" value="1697178791443" />
+            </ChatHistoryModel>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
 </project>
