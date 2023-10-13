@@ -5,8 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c1377eff-430a-46e6-a07a-383d80d85851" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_coursSovoc/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_coursSovoc/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_coursSovoc/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_coursSovoc/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_coursSovoc/MyFirstProgram.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_coursSovoc/java_coursSovoc.iml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_coursSovoc/java_coursSovoc.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../sandbox/gradle/caches/journal-1/file-access.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../sandbox/gradle/caches/journal-1/file-access.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../sandbox/gradle/daemon/8.3/daemon-3572.out.log" beforeDir="false" afterPath="$PROJECT_DIR$/../sandbox/gradle/daemon/8.3/daemon-3572.out.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sandbox/gradle/daemon/8.3/daemon-14076.out.log" beforeDir="false" afterPath="$PROJECT_DIR$/../sandbox/gradle/daemon/8.3/daemon-14076.out.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../sandbox/gradle/daemon/8.3/registry.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../sandbox/gradle/daemon/8.3/registry.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../sandbox/gradle/daemon/8.3/registry.bin.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../sandbox/gradle/daemon/8.3/registry.bin.lock" afterDir="false" />
     </list>
@@ -31,23 +36,7 @@
         </task>
         <projects_view>
           <tree_state>
-            <expand>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="sandbox" type="f1a62948:ProjectNode" />
-              </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="sandbox" type="f1a62948:ProjectNode" />
-                <item name="Tasks" type="e4a08cd1:TasksNode" />
-              </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="sandbox" type="f1a62948:ProjectNode" />
-                <item name="Tasks" type="e4a08cd1:TasksNode" />
-                <item name="build setup" type="c8890929:TasksNode$1" />
-              </path>
-            </expand>
+            <expand />
             <select />
           </tree_state>
         </projects_view>
@@ -90,7 +79,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.myCours.MyFirstProgram">
     <configuration name="MyFirstProgram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MyFirstProgram" />
       <module name="java_coursSovoc" />
@@ -98,8 +87,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="myCours.MyFirstProgram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="myCours.MyFirstProgram" />
+      <module name="java_coursSovoc" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="myCours.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.myCours.MyFirstProgram" />
         <item itemvalue="Application.MyFirstProgram" />
       </list>
     </recent_temporary>
