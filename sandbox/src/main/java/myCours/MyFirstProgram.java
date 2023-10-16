@@ -7,24 +7,26 @@ public class MyFirstProgram {
         hello(" User");
         hello(" Andrey");
 
-        double len = 5;
-        System.out.println("Площадь квадрата со сторонами " + len + "="+ area(len));
+        Square s = new Square(5);
 
-        double a = 4;
-        double b = 6;
+        System.out.println("Площадь квадрата со сторонами " + s.l + "="+ area(s));
 
-        System.out.println("Площадь прямоугольника со сторонами " + a +" и " + b + "=" + area(a, b));
+        Rectsngle r = new Rectsngle(4, 6);
+
+
+        System.out.println("Площадь прямоугольника со сторонами " + r.a +" и " + r.b + "=" + area(r));
     }
     public static void hello(String sombody){ //Создание функции
 
         System.out.println("Hello" + sombody + "!");
     }
 
-    public static double area(double l){ //Функция вычисления площади квадрата
-       return l * l;
+    public static double area(Square s){ //Функция вычисления площади квадрата
+       return s.l * s.l;
     }
 
-    public static double area(double a, double b){//Функция вычисления площади прямоугольника
-        return a*b;
+    public static double area(Rectsngle r){//Функция вычисления площади прямоугольника
+
+        return r.a * r.b;
     }
 }
