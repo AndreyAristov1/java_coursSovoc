@@ -9,24 +9,23 @@ public class MyFirstProgram {
 
         Square s = new Square(5);
 
-        System.out.println("Площадь квадрата со сторонами " + s.l + "="+ area(s));
+        System.out.println("Площадь квадрата со сторонами " + s.l + "="+ s.area());
 
         Rectsngle r = new Rectsngle(4, 6);
 
 
-        System.out.println("Площадь прямоугольника со сторонами " + r.a +" и " + r.b + "=" + area(r));
+        System.out.println("Площадь прямоугольника со сторонами " + r.a +" и " + r.b + "=" + r.area());
     }
     public static void hello(String sombody){ //Создание функции
 
         System.out.println("Hello" + sombody + "!");
     }
 
-    public static double area(Square s){ //Функция вычисления площади квадрата
-       return s.l * s.l;
+    Point p1 = new Point(1, 2);
+    Point p2 = new Point(4, 3);
+
+    public static double distance(Point p1, Point p2){
+        return Math.sqrt(p2.X - p1.X)*2 + (p2.Y - p1.Y)*2;
     }
 
-    public static double area(Rectsngle r){//Функция вычисления площади прямоугольника
-
-        return r.a * r.b;
-    }
 }

@@ -8,5 +8,9 @@ public class Rectsngle {
         this.a = a;
         this.b = b;
     }
+    public double area(){//Функция вычисления площади прямоугольника
+
+        return this.a * this.b;
+    }
 
 }
